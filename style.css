@@ -20,10 +20,10 @@ h1 {
 } 
 .seccion-oscura {
     color: white;
-    background-color: #1b1b32;
+    background-color: #438de8;
 }
 .seccion-clara {
-    color: black;
+    color: rgb(13, 13, 13);
     background-color: white;
 }
 .seccion-titulo {
@@ -216,7 +216,7 @@ h1 {
 }
 .destino-info .cargo {
     font-size: 0.9rem;
-    color: #656060;
+    color: #070707;
 }
 /* Contacto */
 
@@ -304,7 +304,7 @@ footer {
 }
 .derechos-de-autor {
     font-size: 15px;
-    color: #aeaeae;
+    color: #0a0a0a;
     padding: 20px;
 }
 
